@@ -1,4 +1,4 @@
-package com.ph.produtos.Entity;
+package com.ph.Pedidos.Entity;
 
 
 import jakarta.persistence.*;

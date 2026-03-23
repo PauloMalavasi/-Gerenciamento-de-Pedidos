@@ -1,4 +1,4 @@
-package com.ph.produtos.Config;
+package com.ph.Pedidos.Config;
 
 import org.springframework.context.annotation.Configuration;
 
